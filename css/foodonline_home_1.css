@@ -1,0 +1,49 @@
+
+
+.navbar-nav {
+    float: right;
+}
+
+#total-count,
+#total-price {
+    padding: 8px 5px 0px 40px;
+}
+
+.wrapper {
+    padding: 0 5%;
+}
+
+.button {
+    text-align: center;
+}
+
+#checkout {
+    background-color: blue;
+    width: 150px;
+    color: white;
+}
+
+.menu,
+.order {
+    height: 560px;
+    border-left: 5px solid grey;
+    background-color: lavender;
+}
+
+.menu {
+    margin-right: 20px;
+}
+
+#order-table {
+    border-bottom: 1px solid grey;
+}
+
+.disable {
+    cursor: not-allowed;
+    pointer-events: none;
+    opacity: 0.5
+}
+
+.hide{
+    display: none;
+}

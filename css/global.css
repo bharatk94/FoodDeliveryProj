@@ -1,0 +1,48 @@
+
+
+* {
+    font-family: Verdana, Arial, 'sans-serif';
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    border: none;
+}
+
+h4 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid grey;
+    width: 165px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+.allbtn {
+    color: white;
+    background-color: blue;
+    width: 170px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+td button {
+    color: blue;
+    background-color: lavender;
+    border: none;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.order-increase-btn,
+.order-decrease-btn {
+    padding-left: 2px
+}
+
